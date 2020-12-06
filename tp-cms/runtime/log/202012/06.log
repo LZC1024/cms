@@ -1,0 +1,40 @@
+[2020-12-06T19:34:18+08:00][error] [0]Driver [Think] not supported.[C:\wamp64\www\tp-cms\vendor\topthink\framework\src\think\Manager.php:104]
+[2020-12-06T20:47:35+08:00][sql] CONNECT:[ UseTime:0.004760s ] mysql:host=127.0.0.1;port=3306;dbname=cms;charset=utf8
+[2020-12-06T20:47:35+08:00][sql] SHOW FULL COLUMNS FROM `account` [ RunTime:0.002636s ]
+[2020-12-06T20:47:35+08:00][sql] SELECT * FROM `account` WHERE  `account` = '123' LIMIT 1 [ RunTime:0.000454s ]
+[2020-12-06T21:16:13+08:00][sql] CONNECT:[ UseTime:0.001123s ] mysql:host=127.0.0.1;port=3306;dbname=cms;charset=utf8
+[2020-12-06T21:16:13+08:00][sql] SHOW FULL COLUMNS FROM `account` [ RunTime:0.000885s ]
+[2020-12-06T21:16:13+08:00][sql] SELECT * FROM `account` WHERE  `account` = '123' LIMIT 1 [ RunTime:0.000384s ]
+[2020-12-06T21:16:20+08:00][sql] CONNECT:[ UseTime:0.010457s ] mysql:host=127.0.0.1;port=3306;dbname=cms;charset=utf8
+[2020-12-06T21:16:20+08:00][sql] SHOW FULL COLUMNS FROM `account` [ RunTime:0.001409s ]
+[2020-12-06T21:16:20+08:00][sql] SELECT * FROM `account` WHERE  `account` = '123' LIMIT 1 [ RunTime:0.000442s ]
+[2020-12-06T21:16:40+08:00][sql] CONNECT:[ UseTime:0.011292s ] mysql:host=127.0.0.1;port=3306;dbname=cms;charset=utf8
+[2020-12-06T21:16:40+08:00][sql] SHOW FULL COLUMNS FROM `account` [ RunTime:0.000733s ]
+[2020-12-06T21:16:40+08:00][sql] SELECT * FROM `account` WHERE  `account` = '123' LIMIT 1 [ RunTime:0.000431s ]
+[2020-12-06T21:16:58+08:00][sql] CONNECT:[ UseTime:0.010576s ] mysql:host=127.0.0.1;port=3306;dbname=cms;charset=utf8
+[2020-12-06T21:16:58+08:00][sql] SHOW FULL COLUMNS FROM `account` [ RunTime:0.000992s ]
+[2020-12-06T21:16:58+08:00][sql] SELECT * FROM `account` WHERE  `account` = '123' LIMIT 1 [ RunTime:0.000378s ]
+[2020-12-06T21:17:05+08:00][sql] CONNECT:[ UseTime:0.010699s ] mysql:host=127.0.0.1;port=3306;dbname=cms;charset=utf8
+[2020-12-06T21:17:05+08:00][sql] SHOW FULL COLUMNS FROM `account` [ RunTime:0.000745s ]
+[2020-12-06T21:17:05+08:00][sql] SELECT * FROM `account` WHERE  `account` = '123' LIMIT 1 [ RunTime:0.000362s ]
+[2020-12-06T21:18:17+08:00][sql] CONNECT:[ UseTime:0.010207s ] mysql:host=127.0.0.1;port=3306;dbname=cms;charset=utf8
+[2020-12-06T21:18:17+08:00][sql] SHOW FULL COLUMNS FROM `account` [ RunTime:0.001427s ]
+[2020-12-06T21:18:17+08:00][sql] SELECT * FROM `account` WHERE  `account` = '123' LIMIT 1 [ RunTime:0.000423s ]
+[2020-12-06T21:18:23+08:00][sql] CONNECT:[ UseTime:0.011654s ] mysql:host=127.0.0.1;port=3306;dbname=cms;charset=utf8
+[2020-12-06T21:18:23+08:00][sql] SHOW FULL COLUMNS FROM `account` [ RunTime:0.000718s ]
+[2020-12-06T21:18:23+08:00][sql] SELECT * FROM `account` WHERE  `account` = '123' LIMIT 1 [ RunTime:0.000345s ]
+[2020-12-06T21:18:27+08:00][sql] CONNECT:[ UseTime:0.011184s ] mysql:host=127.0.0.1;port=3306;dbname=cms;charset=utf8
+[2020-12-06T21:18:27+08:00][sql] SHOW FULL COLUMNS FROM `account` [ RunTime:0.000941s ]
+[2020-12-06T21:18:27+08:00][sql] SELECT * FROM `account` WHERE  `account` = '123' LIMIT 1 [ RunTime:0.000368s ]
+[2020-12-06T21:18:37+08:00][sql] CONNECT:[ UseTime:0.010777s ] mysql:host=127.0.0.1;port=3306;dbname=cms;charset=utf8
+[2020-12-06T21:18:37+08:00][sql] SHOW FULL COLUMNS FROM `account` [ RunTime:0.000770s ]
+[2020-12-06T21:18:37+08:00][sql] SELECT * FROM `account` WHERE  `account` = '123' LIMIT 1 [ RunTime:0.000351s ]
+[2020-12-06T21:18:43+08:00][sql] CONNECT:[ UseTime:0.010075s ] mysql:host=127.0.0.1;port=3306;dbname=cms;charset=utf8
+[2020-12-06T21:18:43+08:00][sql] SHOW FULL COLUMNS FROM `account` [ RunTime:0.001432s ]
+[2020-12-06T21:18:43+08:00][sql] SELECT * FROM `account` WHERE  `account` = '123' LIMIT 1 [ RunTime:0.000361s ]
+[2020-12-06T21:32:03+08:00][sql] CONNECT:[ UseTime:0.001490s ] mysql:host=127.0.0.1;port=3306;dbname=cms;charset=utf8
+[2020-12-06T21:32:03+08:00][sql] SHOW FULL COLUMNS FROM `account` [ RunTime:0.000968s ]
+[2020-12-06T21:32:03+08:00][sql] SELECT * FROM `account` WHERE  `account` = '123' LIMIT 1 [ RunTime:0.000398s ]
+[2020-12-06T21:32:57+08:00][sql] CONNECT:[ UseTime:0.024803s ] mysql:host=127.0.0.1;port=3306;dbname=cms;charset=utf8
+[2020-12-06T21:32:57+08:00][sql] SHOW FULL COLUMNS FROM `account` [ RunTime:0.001116s ]
+[2020-12-06T21:32:57+08:00][sql] SELECT * FROM `account` WHERE  `account` = '123' LIMIT 1 [ RunTime:0.000357s ]
